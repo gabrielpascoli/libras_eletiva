@@ -16,18 +16,12 @@ O mapa mental aborda os seguintes tópicos principais:
 - **Recursos**: Cursos, workshops, organizações e materiais didáticos.
 - **Conclusão**: Importância e perspectivas futuras para a inclusão social.
 
-## Acesse o Mapa Mental
+Acesse o Mapa Mental
 
 O mapa mental está disponível no seguinte link para visualização e edição colaborativa:
 [Mapa Mental no Miro](https://miro.com/app/board/uXjVLBpzyP4=/?share_link_id=206009170074)
 
-## Uso do Arquivo
+link do vídeo 
 
-Você também pode utilizar a imagem gerada do mapa mental para consulta offline ou em apresentações.
+https://youtu.be/nlvN18xbT8w?si=Lt98vK7zDkwclQSO
 
----
-
-### Autor
-Este mapa mental foi criado para fins educacionais e está disponível para uso público.
-
-Se tiver dúvidas ou sugestões, fique à vontade para contribuir!
